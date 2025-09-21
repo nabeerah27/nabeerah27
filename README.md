@@ -1,4 +1,10 @@
-# 🌱 On the path of learning — I’m Nabeerah Yaqoot, exploring Java
+ # 🌱 On the path of learning — I’m Nabeerah Yaqoot, exploring Java and Backend Development
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nabeerah27/nabeerah27/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nabeerah27/nabeerah27/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nabeerah27/nabeerah27/output/github-snake.svg" />
+</picture>
 
 ## ✨ About Me  
 

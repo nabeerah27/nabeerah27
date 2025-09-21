@@ -1,0 +1,35 @@
+name: Pac-Man Contribution Graph
+
+on:
+  # Schedule to run daily at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # Allow manual triggering
+  workflow_dispatch:
+  # Trigger on pushes to main branch
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Step 2: Generate Pac-Man Contribution Graph
+      - name: Generate Pac-Man Contribution Graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: nabeerah27    # Your GitHub username
+
+      # Step 3: Push generated files to the output branch
+      - name: Deploy Pac-Man files to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output      # branch where Pac-Man files are stored
+          build_dir: dist            # folder containing the generated files
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

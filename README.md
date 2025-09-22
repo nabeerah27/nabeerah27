@@ -1,4 +1,4 @@
- # 🌱 On the path of learning — I’m Nabeerah Yaqoot, exploring Java and Backend Development
+ # 🌱 On the path of learning - I’m Nabeerah Yaqoot, exploring Java and Backend Development
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nabeerah27/nabeerah27/output/github-snake-dark.svg" />
@@ -10,7 +10,7 @@
 
 I’m a first-year Computer Science student passionate about exploring the world of technology. My journey began with Java, where I’ve been strengthening my foundation in programming and problem-solving. Alongside, I’m diving into **Data Structures & Algorithms (DSA)** to sharpen my logical thinking and coding skills.  
 
-Currently, I’m focused on building projects that put my learning into practice — from OOP-based systems to small backend-focused applications. My next milestone is to learn **Spring Boot** and step confidently into backend development. I believe in growing step by step, documenting my journey, and sharing it with others who are walking a similar path. 
+Currently, I’m focused on building projects that put my learning into practice - from OOP-based systems to small backend-focused applications. My next milestone is to learn **Spring Boot** and step confidently into backend development. I believe in growing step by step, documenting my journey, and sharing it with others who are walking a similar path. 
 
 ## 🛠️ Languages & Tech Stack 
 

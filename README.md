@@ -64,6 +64,6 @@
 ---
 
 <p align="center">
-  <i>"Premature optimization is the root of all evil, but ignoring scalability is a close second."</i>
+  <i>"Systems are not just code; they are the invisible architecture that holds the digital world together."</i>
 </p>
 

@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=Nabeerah%20Yaqoot&fontSize=70&fontAlignY=50&fontColor=ffffff&animation=scaleIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=Nabeerah%20Yaqoot&fontSize=70&fontAlignY=50&fontColor=ffffff&animation=scaleIn" width="100%" alt="Nabeerah Yaqoot"/>
 </div>
 
 <p align="center">
   <b>Computer Science | Backend Engineer | Java | Spring Boot </b>
 </p>
+
+---
 
 ## <p align="center">About Me</p>
 <div align="center">
@@ -21,38 +23,29 @@
 
 <br/>
 
-## <p align="center">Core Expertise</p>
+## <p align="center">Tech Expertise</p>
 <table align="center">
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="50" /><br />Java</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=spring" width="50" /><br />Spring Boot</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="50" /><br />Postgres</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="50" /><br />C++</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="50"  alt="Java"/><br />Java</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=spring" width="50"  alt="Spring Boot"/><br />Spring Boot</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="50"  alt="PostgreSQL"/><br />PostgreSQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="50"  alt="C++"/><br />C++</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=maven" width="50" /><br />Maven</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50" /><br />Git</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="50" /><br />GitHub</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=idea" width="50" /><br />IntelliJ</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=maven" width="50"  alt="Maven"/><br />Maven</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50"  alt="Git"/><br />Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="50"  alt="GitHub"/><br />GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=idea" width="50"  alt="IntelliJ"/><br />IntelliJ</td>
   </tr>
 </table>
 
 <br/>
 
-## <p align="center">Performance Metrics</p>
+## <p align="center">Coding Activity</p>
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=nabeerah27&show_icons=true&theme=nord&hide_border=true" height="170" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeerah27&layout=compact&theme=nord&hide_border=true" height="170" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeerah27&layout=compact&theme=nord&hide_border=true&include_all_commits=true" height="180" />
 
-  <br/>
+<br/><br/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabeerah27&theme=react-dark&hide_border=true&area=true" width="100%" />
 </div>
@@ -61,15 +54,15 @@
 
 ## <p align="center">Social Endpoints</p>
 <p align="center">
-  <a href="https://linkedin.com/in/nabeerah27"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/nabeerah27"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="Linkedin"/></a>
   &nbsp;
-  <a href="mailto:nabeerahyaqoot@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:nabeerahyaqoot@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Gmail"/></a>
 </p>
 
 <p align="center">
-  <a href="https://codolio.com/profile/nabeerah27"><img src="https://img.shields.io/badge/Codolio-6E40C9?style=for-the-badge&logo=target&logoColor=white" /></a>
+  <a href="https://codolio.com/profile/nabeerah27"><img src="https://img.shields.io/badge/Codolio-6E40C9?style=for-the-badge&logo=target&logoColor=white"  alt="Codolio"/></a>
   &nbsp;
-  <a href="https://leetcode.com/nabeerah27"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://leetcode.com/nabeerah27"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"  alt="Leetcode"/></a>
 </p>
 
 <p align="center">

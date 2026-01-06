@@ -41,12 +41,12 @@
 
 ## <p align="center">Performance Metrics</p>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabeerah27&theme=dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabeerah27&theme=react-dark&hide_border=true" width="100%" />
 
   <br/>
 
   <a href="https://codolio.com/profile/nabeerah27">
-    <img src="https://img.shields.io/endpoint?url=https://codolio.com/api/badge/nabeerah27&style=for-the-badge&labelColor=1e1e1e&color=6E40C9" alt="Codolio Profile Status" />
+    <img src="https://codolio.com/api/dailycard/nabeerah27" alt="Codolio Stats" />
   </a>
 </div>
 
@@ -54,11 +54,14 @@
 
 ## <p align="center">Social Endpoints</p>
 <p align="center">
-  <a href="nabeerah27"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
+  <a href="https://linkedin.com/in/nabeerah27"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
   <a href="mailto:nabeerahyaqoot@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  &nbsp;
-  <a href="nabeerah27"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+
+  <a href="https://codolio.com/profile/nabeerah27"><img src="https://img.shields.io/badge/Codolio-6E40C9?style=for-the-badge&logo=target&logoColor=white" /></a>
+
+  <a href="https://leetcode.com/nabeerah27"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+
 </p>
 
 <p align="center">

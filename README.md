@@ -6,8 +6,6 @@
   <b>Computer Science | Backend Engineer | Java | Spring Boot </b>
 </p>
 
----
-
 ## <p align="center">About Me</p>
 <table>
   <tr>
@@ -18,8 +16,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ## <p align="center">Core Expertise</p>
 
@@ -38,16 +34,13 @@
   </tr>
 </table>
 
----
-
-## <p align="center">GitHub Stats</p>
+## <p align="center">Performance Metrics</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabeerah27&show_icons=true&theme=nord&hide_border=false" alt="Nabeerah's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nabeerah27&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://leetcode-stats-six.vercel.app/api?username=nabeerah27&theme=dark" alt="LeetCode Stats" />
 </p>
 
----
-
----
 
 ## <p align="center">Social Endpoints</p>
 <p align="center">
@@ -68,16 +61,9 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=nabeerah27&theme=dark" alt="LeetCode Stats" />
-</p>
-
-<br />
+---
 
 <p align="center">
   <i>"Premature optimization is the root of all evil, but ignoring scalability is a close second."</i>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=23272e&height=35&section=footer&text=Strongly%20Typed.%20Highly%20Scalable.&fontSize=18" width="100%"/>
-</p>

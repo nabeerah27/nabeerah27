@@ -45,7 +45,9 @@
 
   <br/>
 
-  <img src="https://leetcard.jacoblin.cool/nabeerah27?theme=dark&font=Syne%20Mono" alt="LeetCode Stats" />
+  <a href="https://codolio.com/profile/nabeerah27">
+    <img src="https://img.shields.io/endpoint?url=https://codolio.com/api/badge/nabeerah27&style=for-the-badge&labelColor=1e1e1e&color=6E40C9" alt="Codolio Profile Status" />
+  </a>
 </div>
 
 <br/>
@@ -62,6 +64,4 @@
 <p align="center">
   <br/>
   <i>"Systems are not just code; they are the invisible architecture that holds the digital world together."</i>
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=23272e&height=35&section=footer&text=Strongly%20Typed.%20Highly%20Scalable.&fontSize=18" width="100%"/>
 </p>

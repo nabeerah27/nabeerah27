@@ -45,11 +45,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeerah27&layout=compact&theme=nord&hide_border=true&v=3" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeerah27&layout=compact&theme=nord&hide_border=true&include_all_commits=true&count_private=true&v=fresh" height="180" alt="Top Languages" />
 
 <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabeerah27&theme=react-dark&hide_border=true&area=true&v=1" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabeerah27&theme=react-dark&hide_border=true&area=true&v=today_refreshed" width="100%" alt="Contribution graph" />
 </div>
 
 <br/>

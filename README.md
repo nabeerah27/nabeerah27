@@ -45,10 +45,9 @@
 <br/>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabeerah27&theme=tokyonight&hide_border=true&v=final" alt="GitHub Streak Stats" />
-<br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabeerah27&theme=react-dark&hide_border=true&area=true&v=today_refreshed" width="100%" alt="Contribution graph" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=nabeerah27&theme=highcontrast&hide_border=true" height="150" alt="GitHub Streak Stats" />
+<br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabeerah27&bg_color=000000&color=F28500&line=F28500&point=FFFFFF&area=true&hide_border=true&v=today_refreshed&v=color_sync" width="100%" alt="Contribution graph" />
 </div>
 
 <br/>

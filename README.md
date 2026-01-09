@@ -56,19 +56,23 @@
 
 ## <p align="center">Social Endpoints</p>
 <p align="center">
-  <a href="https://linkedin.com/in/nabeerah27" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/nabeerah27">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="Linkedin"/>
   </a>
   &nbsp;
-  <a href="mailto:nabeerahyaqoot@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nabeerahyaqoot@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://codolio.com/profile/nabeerah27"><img src="https://img.shields.io/badge/Codolio-6E40C9?style=for-the-badge&logo=target&logoColor=white"  alt="Codolio"/></a>
+  <a href="https://codolio.com/profile/nabeerah27">
+    <img src="https://img.shields.io/badge/Codolio-6E40C9?style=for-the-badge&logo=target&logoColor=white"  alt="Codolio"/>
+  </a>
   &nbsp;
-  <a href="https://leetcode.com/nabeerah27"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"  alt="Leetcode"/></a>
+  <a href="https://leetcode.com/nabeerah27">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"  alt="Leetcode"/>
+  </a>
 </p>
 
 <p align="center">

@@ -56,9 +56,13 @@
 
 ## <p align="center">Social Endpoints</p>
 <p align="center">
-  <a href="https://linkedin.com/in/nabeerah27"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="Linkedin"/></a>
+  <a href="https://linkedin.com/in/nabeerah27" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   &nbsp;
-  <a href="mailto:nabeerahyaqoot@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Gmail"/></a>
+  <a href="mailto:nabeerahyaqoot@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 <p align="center">

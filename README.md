@@ -42,12 +42,14 @@
 <br/>
 
 ## <p align="center">Coding Activity</p>
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeerah27&layout=compact&theme=nord&hide_border=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeerah27&layout=compact&theme=nord&hide_border=true&include_all_commits=true&cache_seconds=1800" height="180" />
 
 <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabeerah27&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabeerah27&theme=react-dark&hide_border=true&area=true&v=1" width="100%" />
 </div>
 
 <br/>

@@ -44,9 +44,8 @@
 ## <p align="center">Coding Activity</p>
 <br/>
 
-<br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeerah27&layout=compact&theme=nord&hide_border=true&include_all_commits=true&v=1" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeerah27&layout=compact&theme=nord&hide_border=true&v=3" height="180" alt="Top Languages" />
 
 <br/><br/>
 
